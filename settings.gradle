@@ -1,0 +1,2 @@
+rootProject.name='tallerCorreo'
+include ':app'
